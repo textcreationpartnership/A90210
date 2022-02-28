@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true coppy of two severall letters sent by Mr. Richard Osborne (late attendant on his Majesty in Carisbrooke Castle,) touching a designe to poyson his Majesty: which letters were read in the House of Peeres June 19. 1648.</title>
+            <author>Osborne, Richard, fl. 1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90210</idno>
+            <idno type="STC">Wing O529</idno>
+            <idno type="STC">Thomason E449_6</idno>
+            <idno type="EEBO-CITATION">99863189</idno>
+            <idno type="PROQUEST">99863189</idno>
+            <idno type="VID">161849</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90210)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161849)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E449[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true coppy of two severall letters sent by Mr. Richard Osborne (late attendant on his Majesty in Carisbrooke Castle,) touching a designe to poyson his Majesty: which letters were read in the House of Peeres June 19. 1648.</title>
+                  <author>Osborne, Richard, fl. 1648.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed 21. June 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "21 June London".</note>
+                  <note>In this edition, line 8 on the titlepage ends "Ma-".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:161849:1" rendition="simple:additions"/> A TRVE COPPY of two ſeverall LETTERS Sent by Mr. <hi>Richard Osborne</hi> (late Attendant on his Majeſty in <hi>Carisbrooke</hi> Caſtle,) touching a deſigne to poyſon his Ma<g ref="char:EOLhyphen"/>jeſty: Which Letters were read in the Houſe of Peeres June 19. 1648.</p>
+            <p>Printed 21. June 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161849:2"/>
+            <pb n="3" facs="tcp:161849:2"/>
+            <head>A Coppy of two Letters ſent by Mr. <hi>Richard Osborne.</hi>
+            </head>
+            <opener>
+               <salute>My Lord:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hough I cannot but imagine I ſtand ſo highly condemned in your Lordſhippes and many perſons thoughts, that any thing of vindication from me muſt come with all the diſadvantage and prejudice that may be; yet (my Lord) being conſcious of my owne integrity, and confident that I ſhall be jud<g ref="char:EOLhyphen"/>ged by your Lordſhippe by no other Rules but thoſe of juſtice and reaſon, I cannot doubt but when I have diſcovered the grounds and reaſons of my Actions, that it will appeare to your Lordſhippe that what I have done hath been agreeable to the ſeverall duties I ſtand ingaged in, as I am ſuppoſed to have acted contrary before I am heard.</p>
+            <p>Not to detaine your Lordſhip in circumſtances, I ſhall make this Proteſtation, that as no other thing but the danger of the Kings life could in reaſon ex<g ref="char:EOLhyphen"/>cuſe ſuch attempt: So I doe proteſt that no infe<g ref="char:EOLhyphen"/>riour <pb n="4" facs="tcp:161849:3"/> conſiderations did or could have moved to ſuch an action: But my Lord having had ſuch particular and well grounded information, that ſo horrid a de<g ref="char:EOLhyphen"/>ſigne was intended and moved from thoſe that could when they pleaſed have had the power to put it in execution; I hope I ſhall not be cenſured for having poſt poſed all other conſiderations to that Loyalty which cannot be queſtioned but I owe to the King.</p>
+            <p>But not to leave your Lordſhippe unſatisfied with this generall account, the intelligence I ſpeake of, con<g ref="char:EOLhyphen"/>cerning this deſigne, I received from Captaine <hi>Rolfe,</hi> a perſon very intimate with the Governour, privy to all Counſells, and one that is very high in the eſteem of the Army; he may Lord, informed me that to his knowledge the Governour had received ſeverall Letters from the Army, intimating they deſired the King might by any meanes be removed out of the way, either by poyſon or otherwiſe; And that ano<g ref="char:EOLhyphen"/>ther time the ſame perſon perſwaded me to joyne with him in a deſigne to remove the King out of that Caſtle to a place of more ſecreſie, proffering to take an Oath with me, and to doe it without the Gover<g ref="char:EOLhyphen"/>nours privity, who he ſayd would not conſent for loſing the allowance of the Houſe, his pretence to this attempt was, that the King was in too publique a place, from whence he might be reſcued, but if he might be conveyed into ſome place of ſecreſie, he ſayd wee might diſpoſe of his perſon upon all occa<g ref="char:EOLhyphen"/>ſions as wee thought fit; and this he was confident wee could effect without the Governours privity. My Lord conſidering all theſe pregnant circumſtan<g ref="char:EOLhyphen"/>ces, <pb n="5" facs="tcp:161849:3"/> I thinke it will appeare that there were, if there are no ſuch intentions concerning his Majeſties per<g ref="char:EOLhyphen"/>ſon, as may well juſtifie my indeavours that have beene made for his remove from ſo much danger: and for my owne part, my Lord, I muſt be ſo plaine as to declare concerning my owne actings in relation to this buſineſſe, that had I done this (having ſuch grounds) I muſt believe I had then verified all thoſe aſperſions of diſloyalty and breach of Truſt, which I am contented to ſuffer from thoſe whoſe intereſt is perchance oppoſed to my indeavours to prevent ſuch damnable deſignes.</p>
+            <p>My Lord, I have ſpoken nothing heere but what I ſhall be ready to teſtifie upon Oath when ever I ſhall be called to it, with promiſe of Freedome and ſecurity, till then I muſt be content to ſupport all cen<g ref="char:EOLhyphen"/>ſures and ſatisfie my ſelfe with the vindication I re<g ref="char:EOLhyphen"/>ceive from my owne conſcience.</p>
+            <closer>
+               <signed>I am your Lordſhips humble ſervant, Rich. Osborne.</signed>
+               <date>1. Iune, 1648.</date>
+               <salute>
+                  <hi>For the Right Honourable the Lord</hi> Whatton.</salute>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:161849:4"/>
+            <head>A <hi>Letter to the right Honourable the Earle of</hi> Mancheſter.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Did by a Letter of the firſt of <hi>Iune</hi> ac<g ref="char:EOLhyphen"/>quaint my Lord <hi>Wharton</hi> with what I ſend here incloſed, expecting it would before this have been communicated to both Houſes: what ſhould be the reaſon of concealing a buſineſſe of this nature I know not, except it be to give thoſe time that are concerned in it better to thinke of ſome ſtra<g ref="char:EOLhyphen"/>tagem to evade this diſcovery.</p>
+            <p>I humby deſire your Lordſhip upon ſight of
+<pb n="7" facs="tcp:161849:4"/> this relation, to communicate it to the Houſe of Peeres; which I ſhall be ready to atteſt upon Oath in every particular, when ever their Lordſhips ſhall pleaſe to allow me that freedome and ſecurity which ought to be afforded to any Gentleman, and Chriſtian, in witneſſing a truth.</p>
+            <closer>
+               <salute>My Lord</salute> I am
+<signed>Your Lordſhips moſt humble ſervant, RICHARD OSBORNE.</signed>
+               <dateline>
+                  <date>June 16, 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>
+               <hi>For the right Honourable the Lord</hi> Mancheſter
+<hi>Speaker of, &amp;c.</hi>
+            </trailer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
